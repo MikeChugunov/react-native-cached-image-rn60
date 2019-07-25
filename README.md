@@ -1,8 +1,8 @@
 # react-native-cached-image
 
-CachedImage component for react-native
+CachedImage component for react-native 0.60
 
-This package is greatly inspired by [@jayesbe](https://github.com/jayesbe)'s amazing [react-native-cacheable-image](https://github.com/jayesbe/react-native-cacheable-image) but adds some functionality that we were missing when trying to handle caching images in our react-native app.
+This package is forked from [original abandoned component](https://github.com/kfiroo/react-native-cached-image/) to provide support for latest RN releases.
 
 ## Installation
 
